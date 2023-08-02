@@ -1,2 +1,2 @@
 # salikashraf.github.com
-Its s static website representing html, css and javascript I have learnt
+This website contains information and showcase a little practice I done before !
